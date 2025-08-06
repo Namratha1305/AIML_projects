@@ -10,6 +10,8 @@ Objective: To learn fundamental image processing techniques for isolating specif
 Description: Developed Python scripts using OpenCV and NumPy to apply masks to images. This was implemented for both grayscale and RGB color spaces, demonstrating the ability to manipulate image channels and perform binary operations to selectively hide or reveal parts of an image.
 
 Skills Gained: Image manipulation, color space conversion (RGB to Grayscale), binary masking, and array manipulation with NumPy.
+<img width="525" height="440" alt="GreyScale_mask" src="https://github.com/user-attachments/assets/162bedb2-ce54-4363-b1d2-f27443d466ed" />
+<img width="1152" height="622" alt="RGB_mask" src="https://github.com/user-attachments/assets/2f876c79-26da-48a2-88ba-ef6d46acd031" />
 
 2. Neural Networks: XOR Prediction
 Objective: To build a simple neural network from scratch to understand the core mechanics of model training and prediction.
@@ -41,4 +43,6 @@ OpenCV: For all computer vision and image processing tasks.
 NumPy: For numerical operations and array manipulation.
 
 Pandas: For data loading, manipulation, and analysis.
+
+Matplotlib: For visual representation of the predictions made.
 
